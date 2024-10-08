@@ -1,7 +1,10 @@
+<div align=center>
+  
 <!--타이틀 부분-->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=HeoJamong&fontSize=70)
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
